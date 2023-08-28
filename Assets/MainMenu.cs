@@ -8,7 +8,7 @@ public class MainMenu : MonoBehaviour
     public Animator transition;
     public void PlayGame()
     {
-        StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
+        StartCoroutine(LoadLevel(1));
        
         IEnumerator LoadLevel(int levelIndex)
         {

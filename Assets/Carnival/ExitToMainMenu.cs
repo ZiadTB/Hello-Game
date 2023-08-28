@@ -7,6 +7,6 @@ public class ExitToMainMenu : MonoBehaviour
 {
     public void ExitToMenu()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene(0);
     }
 }
