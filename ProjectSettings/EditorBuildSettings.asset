@@ -17,4 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Carnival 2.unity
     guid: d8e1834cfc23982438c2893f51c45baf
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 36dd3f9fc2ceae143a330b382cd3da9b
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

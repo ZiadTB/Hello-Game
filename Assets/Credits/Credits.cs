@@ -17,7 +17,7 @@ public class Credits : MonoBehaviour
         {
             transition.SetTrigger("Start");
 
-            yield return new WaitForSeconds(16);
+            yield return new WaitForSeconds(23);
 
             SceneManager.LoadScene(0);
         }
